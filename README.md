@@ -199,9 +199,3 @@ Alternatively, you can access it via the `/api-docs` endpoint if the application
 3. **Explore Endpoints**: Expand the sections to view available endpoints (e.g., `/users`, `/auth`).
 
 ---
-
-<!-- ---
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). -->

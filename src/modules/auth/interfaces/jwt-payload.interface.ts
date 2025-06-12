@@ -1,5 +1,7 @@
+import { JwtUser } from './jwt-user.interface';
+
 export interface JwtPayload {
   id: number;
-  email: string;
+  user: JwtUser;
   refreshExpiresAt: number;
 }
